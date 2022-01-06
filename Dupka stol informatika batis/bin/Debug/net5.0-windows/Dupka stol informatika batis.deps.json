@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dupka stol informatika batis/1.0.0": {
+        "runtime": {
+          "Dupka stol informatika batis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dupka stol informatika batis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

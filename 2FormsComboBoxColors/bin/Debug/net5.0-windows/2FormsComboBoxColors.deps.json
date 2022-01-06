@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2FormsComboBoxColors/1.0.0": {
+        "runtime": {
+          "2FormsComboBoxColors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2FormsComboBoxColors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

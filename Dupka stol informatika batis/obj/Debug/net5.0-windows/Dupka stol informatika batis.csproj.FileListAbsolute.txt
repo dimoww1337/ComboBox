@@ -1,0 +1,18 @@
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\Dupka stol informatika batis.exe
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\Dupka stol informatika batis.deps.json
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\Dupka stol informatika batis.runtimeconfig.json
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\Dupka stol informatika batis.runtimeconfig.dev.json
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\Dupka stol informatika batis.dll
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\ref\Dupka stol informatika batis.dll
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\bin\Debug\net5.0-windows\Dupka stol informatika batis.pdb
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.csproj.AssemblyReference.cache
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka_stol_informatika_batis.Form1.resources
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.csproj.GenerateResource.cache
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.AssemblyInfoInputs.cache
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.AssemblyInfo.cs
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.csproj.CoreCompileInputs.cache
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.dll
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\ref\Dupka stol informatika batis.dll
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.pdb
+D:\Daskalo wap\Informatika\Dupka stol informatika batis\obj\Debug\net5.0-windows\Dupka stol informatika batis.genruntimeconfig.cache
